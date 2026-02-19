@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Deepatharshan P<br><br>🎓 Undergraduate at SLIIT<br>💼 Software Engineering Intern at Qumatrix<br>💻 Full Stack Developer passionate about building real-world web and mobile applications.<br>I have experience developing dashboards, e-commerce systems, and AI-integrated applications using modern technologies. Currently, I’m focusing on deployment, testing, and advanced AI integrations.<br><br>🛠️ Skills & Technologies<br><br>💻 Full Stack Development<br><br>MERN Stack (MongoDB, Express.js, React.js, Node.js)<br><br>Laravel & PHP<br><br>Next.js<br><br>REST API Development & Integration<br><br>Dashboard & E-commerce Development<br><br>🗄️ Databases<br><br>MongoDB<br><br>MySQL<br><br>PostgreSQL (Neon)<br><br>📱 Mobile Development<br><br>Flutter<br><br>Android Studio<br><br>⚙️ Tools & Technologies<br><br>Git & GitHub (Version Control & Project Management)<br><br>Docker<br><br>Postman<br><br>VS Code<br><br>🔐 Other Skills<br><br>Authentication Systems<br><br>API Management<br><br>Database Management<br><br>AI Integration<br><br>Deployment (Learning)<br><br>Testing (Learning)<br><br>🚀 Always learning and building new projects to improve my skills.
+👋 Hi, I'm Deepatharshan P<br><br>🎓 Undergraduate at SLIIT<br>💼 Software Engineering Intern at QMatrix<br>💻 Full Stack Developer passionate about building real-world web and mobile applications.<br>I have experience developing dashboards, e-commerce systems, and AI-integrated applications using modern technologies. Currently, I’m focusing on deployment, testing, and advanced AI integrations.<br><br>🛠️ Skills & Technologies<br><br>💻 Full Stack Development<br><br>MERN Stack (MongoDB, Express.js, React.js, Node.js)<br><br>Laravel & PHP<br><br>Next.js<br><br>REST API Development & Integration<br><br>Dashboard & E-commerce Development<br><br>🗄️ Databases<br><br>MongoDB<br><br>MySQL<br><br>PostgreSQL (Neon)<br><br>📱 Mobile Development<br><br>Flutter<br><br>Android Studio<br><br>⚙️ Tools & Technologies<br><br>Git & GitHub (Version Control & Project Management)<br><br>Docker<br><br>Postman<br><br>VS Code<br><br>🔐 Other Skills<br><br>Authentication Systems<br><br>API Management<br><br>Database Management<br><br>AI Integration<br><br>Deployment (Learning)<br><br>Testing (Learning)<br><br>🚀 Always learning and building new projects to improve my skills.
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Deepatharshan&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Deepatharshan&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepatharshan&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Deepatharshan&theme=neon&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Deepatharshan&limit=5&theme=neon&combine_all_yearly_contributions=true)
