@@ -1,5 +1,27 @@
 # 💫 About Me:
-👋 Hi, I'm Deepatharshan P<br><br>🎓 Undergraduate at SLIIT<br>💼 Software Engineering Intern at QMatrix<br>💻 Full Stack Developer passionate about building real-world web and mobile applications.<br>I have experience developing dashboards, e-commerce systems, and AI-integrated applications using modern technologies. Currently, I’m focusing on deployment, testing, and advanced AI integrations.<br><br>🛠️ Skills & Technologies<br><br>💻 Full Stack Development<br><br>MERN Stack (MongoDB, Express.js, React.js, Node.js)<br><br>Laravel & PHP<br><br>Next.js<br><br>REST API Development & Integration<br><br>Dashboard & E-commerce Development<br><br>🗄️ Databases<br><br>MongoDB<br><br>MySQL<br><br>PostgreSQL (Neon)<br><br>📱 Mobile Development<br><br>Flutter<br><br>Android Studio<br><br>⚙️ Tools & Technologies<br><br>Git & GitHub (Version Control & Project Management)<br><br>Docker<br><br>Postman<br><br>VS Code<br><br>🔐 Other Skills<br><br>Authentication Systems<br><br>API Management<br><br>Database Management<br><br>AI Integration<br><br>Deployment (Learning)<br><br>Testing (Learning)<br><br>🚀 Always learning and building new projects to improve my skills.
+## 👋 Hi, I'm Deepatharshan P
+
+🎓 Undergraduate at SLIIT  
+💼 Software Engineering Intern at QMatrix  
+💻 Full Stack Developer passionate about building real-world web and mobile applications.
+
+I build dashboards, e-commerce systems, and AI-integrated applications using modern technologies.  
+Currently focusing on **Deployment, Testing, and Advanced AI Integrations.**
+
+🚀 Always learning and building new projects to improve my skills.
+
+---
+
+## 🛠️ Skills & Technologies
+
+I have experience in **Full Stack Development** using the MERN Stack (MongoDB, Express.js, React.js, Node.js), along with Laravel, PHP, and Next.js for building scalable web applications. I develop REST APIs, dashboards, and e-commerce systems with proper authentication and database management. 
+
+I work with databases such as MongoDB, MySQL, and PostgreSQL (Neon) and have experience in both backend development and API management. I also develop mobile applications using Flutter and Android Studio.
+
+In addition, I use tools and technologies such as Git, GitHub, Docker, Postman, and VS Code for version control and development workflows. I have skills in UI/UX design using Figma and enjoy creating modern, responsive, and AI-enhanced web interfaces, including 3D-style and interactive website designs.
+
+I am currently expanding my knowledge in AI integrations, deployment, and software testing while continuously building real-world projects.
+
 
 
 ## 🌐 Socials:
