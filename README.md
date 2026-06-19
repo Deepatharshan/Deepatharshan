@@ -2,7 +2,7 @@
 ## 👋 Hi, I'm Deepatharshan P
 
 🎓 Undergraduate at SLIIT  
-💼 Software Engineering Intern at QMatrix  
+💼 Software Engineering  
 💻 Full Stack Developer passionate about building real-world web and mobile applications.
 
 I build dashboards, e-commerce systems, and AI-integrated applications using modern technologies.  
